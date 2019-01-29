@@ -1,0 +1,21 @@
+h1{
+    color: blue;
+    text-align: center;
+
+}
+body{
+    background:lightgray;
+    text-align: center;
+}
+nav a{
+    display:inline-block;
+    border: 2px solid black;
+    padding: 10px;
+    Margin: 5px;
+    Background: teal;
+}
+a{
+    color: black;
+    text-decoration: none;
+}
+h1{text-align:center}
